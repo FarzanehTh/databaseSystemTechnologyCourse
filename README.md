@@ -1,5 +1,5 @@
-# CSC443-project
-This is a repo for the group project of CSC443.
+# Database System Technology course project
+This is a repo for the project of Database System Technology course.
 
 # Steps of project
 
